@@ -5,7 +5,10 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            //i hate this bs
+            Console.WriteLine("Looney tunes grade BS");
+            
+            
+        
         }
     }
 }
